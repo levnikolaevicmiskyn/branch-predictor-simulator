@@ -1,6 +1,4 @@
-//
-// Created by caran on 10/12/2020.
-//
+
 
 #ifndef BRANCH_PREDICTOR_SIMULATOR_PARSER_H
 #define BRANCH_PREDICTOR_SIMULATOR_PARSER_H

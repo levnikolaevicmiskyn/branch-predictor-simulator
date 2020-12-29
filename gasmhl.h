@@ -1,6 +1,3 @@
-//
-// Created by caran on 28/12/2020.
-//
 
 #ifndef BRANCH_PREDICTOR_SIMULATOR_GASMHL_H
 #define BRANCH_PREDICTOR_SIMULATOR_GASMHL_H

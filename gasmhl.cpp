@@ -1,6 +1,3 @@
-//
-// Created by caran on 28/12/2020.
-//
 
 #include "gasmhl.h"
 
